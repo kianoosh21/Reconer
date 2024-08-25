@@ -1,0 +1,5 @@
+123.google.com
+456.yahoo.com/email/user?123
+https://speedtest.org
+ftp://sub.example.net/123/dshdskjfh/sdjdfh#234
+abc.def.ghi.jkl.mno.org
