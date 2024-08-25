@@ -1,0 +1,4 @@
+Got SSL certificate from 1.1.1.3:443: [family.cloudflare-dns.com, family.cloudflare-dns.com, *.family.cloudflare-dns.com]
+Got SSL certificate from 1.1.1.2:443: [security.cloudflare-dns.com, security.cloudflare-dns.com, *.security.cloudflare-dns.com]
+Got SSL certificate from 1.1.1.1:443: [cloudflare-dns.com, cloudflare-dns.com, *.cloudflare-dns.com, one.one.one.one]
+Got SSL certificate from 1.1.8.1:443: [Quidway]

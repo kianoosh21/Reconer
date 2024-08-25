@@ -3,3 +3,5 @@
 https://speedtest.org
 ftp://sub.example.net/123/dshdskjfh/sdjdfh#234
 abc.def.ghi.jkl.mno.org
+
+Got SSL certificate from 8.8.8.8:443: [dns.google, dns.google, dns.google.com, *.dns.google.com, 8888.google, dns64.dns.google]
